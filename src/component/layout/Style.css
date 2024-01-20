@@ -1,0 +1,23 @@
+@media (max-width:425px) {
+    .Header-dropdowBox{
+        width: 100%;
+    }
+    .Header-dropdowbutton{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: space-between;
+        width: 100%;
+        margin: 0px;
+    }
+    .headerPRICING{
+        margin-left: 0px;
+    }
+    .headerCONTACT{
+        margin-left: 0.7rem;
+    }
+    .headermaindiv{
+        padding: 0.7rem;
+    }
+}
